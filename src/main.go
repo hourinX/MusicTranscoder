@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	read()
 	fmt.Print("Hello MusicTranscoder!")
 	ui.StartForm()
 }
